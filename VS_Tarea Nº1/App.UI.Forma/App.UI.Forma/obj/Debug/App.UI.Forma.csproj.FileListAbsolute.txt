@@ -1,0 +1,26 @@
+C:\Users\USUARIO\source\repos\App.UI.Forma\App.UI.Forma\bin\Debug\App.UI.Forma.exe.config
+C:\Users\USUARIO\source\repos\App.UI.Forma\App.UI.Forma\bin\Debug\App.UI.Forma.exe
+C:\Users\USUARIO\source\repos\App.UI.Forma\App.UI.Forma\bin\Debug\App.UI.Forma.pdb
+C:\Users\USUARIO\source\repos\App.UI.Forma\App.UI.Forma\bin\Debug\App.UI.Entities.dll
+C:\Users\USUARIO\source\repos\App.UI.Forma\App.UI.Forma\bin\Debug\App.UI.Entities.pdb
+C:\Users\USUARIO\source\repos\App.UI.Forma\App.UI.Forma\obj\Debug\App.UI.Forma.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\App.UI.Forma\App.UI.Forma\obj\Debug\App.UI.Forma.Form1.resources
+C:\Users\USUARIO\source\repos\App.UI.Forma\App.UI.Forma\obj\Debug\App.UI.Forma.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\App.UI.Forma\App.UI.Forma\obj\Debug\App.UI.Forma.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\App.UI.Forma\App.UI.Forma\obj\Debug\App.UI.Forma.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\App.UI.Forma\App.UI.Forma\obj\Debug\App.UI.Forma.csproj.CopyComplete
+C:\Users\USUARIO\source\repos\App.UI.Forma\App.UI.Forma\obj\Debug\App.UI.Forma.exe
+C:\Users\USUARIO\source\repos\App.UI.Forma\App.UI.Forma\obj\Debug\App.UI.Forma.pdb
+C:\Users\VS2017-DEVELOPER\Desktop\VS_Tarea Nº1\App.UI.Forma\App.UI.Forma\bin\Debug\App.UI.Forma.exe.config
+C:\Users\VS2017-DEVELOPER\Desktop\VS_Tarea Nº1\App.UI.Forma\App.UI.Forma\bin\Debug\App.UI.Forma.exe
+C:\Users\VS2017-DEVELOPER\Desktop\VS_Tarea Nº1\App.UI.Forma\App.UI.Forma\bin\Debug\App.UI.Forma.pdb
+C:\Users\VS2017-DEVELOPER\Desktop\VS_Tarea Nº1\App.UI.Forma\App.UI.Forma\bin\Debug\App.UI.Entities.dll
+C:\Users\VS2017-DEVELOPER\Desktop\VS_Tarea Nº1\App.UI.Forma\App.UI.Forma\bin\Debug\App.UI.Entities.pdb
+C:\Users\VS2017-DEVELOPER\Desktop\VS_Tarea Nº1\App.UI.Forma\App.UI.Forma\obj\Debug\App.UI.Forma.csprojAssemblyReference.cache
+C:\Users\VS2017-DEVELOPER\Desktop\VS_Tarea Nº1\App.UI.Forma\App.UI.Forma\obj\Debug\App.UI.Forma.Form1.resources
+C:\Users\VS2017-DEVELOPER\Desktop\VS_Tarea Nº1\App.UI.Forma\App.UI.Forma\obj\Debug\App.UI.Forma.Properties.Resources.resources
+C:\Users\VS2017-DEVELOPER\Desktop\VS_Tarea Nº1\App.UI.Forma\App.UI.Forma\obj\Debug\App.UI.Forma.csproj.GenerateResource.cache
+C:\Users\VS2017-DEVELOPER\Desktop\VS_Tarea Nº1\App.UI.Forma\App.UI.Forma\obj\Debug\App.UI.Forma.csproj.CoreCompileInputs.cache
+C:\Users\VS2017-DEVELOPER\Desktop\VS_Tarea Nº1\App.UI.Forma\App.UI.Forma\obj\Debug\App.UI.Forma.csproj.CopyComplete
+C:\Users\VS2017-DEVELOPER\Desktop\VS_Tarea Nº1\App.UI.Forma\App.UI.Forma\obj\Debug\App.UI.Forma.exe
+C:\Users\VS2017-DEVELOPER\Desktop\VS_Tarea Nº1\App.UI.Forma\App.UI.Forma\obj\Debug\App.UI.Forma.pdb

@@ -1,0 +1,12 @@
+C:\Users\USUARIO\source\repos\App.UI.Forma\App.UI.Entities\bin\Debug\App.UI.Entities.dll
+C:\Users\USUARIO\source\repos\App.UI.Forma\App.UI.Entities\bin\Debug\App.UI.Entities.pdb
+C:\Users\USUARIO\source\repos\App.UI.Forma\App.UI.Entities\obj\Debug\App.UI.Entities.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\App.UI.Forma\App.UI.Entities\obj\Debug\App.UI.Entities.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\App.UI.Forma\App.UI.Entities\obj\Debug\App.UI.Entities.dll
+C:\Users\USUARIO\source\repos\App.UI.Forma\App.UI.Entities\obj\Debug\App.UI.Entities.pdb
+C:\Users\VS2017-DEVELOPER\Desktop\VS_Tarea Nº1\App.UI.Forma\App.UI.Entities\bin\Debug\App.UI.Entities.dll
+C:\Users\VS2017-DEVELOPER\Desktop\VS_Tarea Nº1\App.UI.Forma\App.UI.Entities\bin\Debug\App.UI.Entities.pdb
+C:\Users\VS2017-DEVELOPER\Desktop\VS_Tarea Nº1\App.UI.Forma\App.UI.Entities\obj\Debug\App.UI.Entities.csprojAssemblyReference.cache
+C:\Users\VS2017-DEVELOPER\Desktop\VS_Tarea Nº1\App.UI.Forma\App.UI.Entities\obj\Debug\App.UI.Entities.csproj.CoreCompileInputs.cache
+C:\Users\VS2017-DEVELOPER\Desktop\VS_Tarea Nº1\App.UI.Forma\App.UI.Entities\obj\Debug\App.UI.Entities.dll
+C:\Users\VS2017-DEVELOPER\Desktop\VS_Tarea Nº1\App.UI.Forma\App.UI.Entities\obj\Debug\App.UI.Entities.pdb
