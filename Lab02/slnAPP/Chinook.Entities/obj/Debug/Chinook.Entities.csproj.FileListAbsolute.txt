@@ -1,0 +1,6 @@
+C:\Fabiola\VS2017_FCR\Labs\Lab02\slnAPP\Chinook.Entities\bin\Debug\Chinook.Entities.dll
+C:\Fabiola\VS2017_FCR\Labs\Lab02\slnAPP\Chinook.Entities\bin\Debug\Chinook.Entities.pdb
+C:\Fabiola\VS2017_FCR\Labs\Lab02\slnAPP\Chinook.Entities\obj\Debug\Chinook.Entities.csprojAssemblyReference.cache
+C:\Fabiola\VS2017_FCR\Labs\Lab02\slnAPP\Chinook.Entities\obj\Debug\Chinook.Entities.csproj.CoreCompileInputs.cache
+C:\Fabiola\VS2017_FCR\Labs\Lab02\slnAPP\Chinook.Entities\obj\Debug\Chinook.Entities.dll
+C:\Fabiola\VS2017_FCR\Labs\Lab02\slnAPP\Chinook.Entities\obj\Debug\Chinook.Entities.pdb
